@@ -17,6 +17,7 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\rodrigo.cerquinha\\Documents\\Projetos\\MockTail\\NuGet.Config",
           "C:\\Users\\rodrigo.cerquinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -27,6 +28,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/rodrigocerquinha/index.json": {},
           "https://pkgs.dev.azure.com/AXIANS-DC-PT-Healthcare/d33c33b5-c4d3-4a4d-999a-33b76a877c8a/_packaging/HealthPlatform.Framework.DotNet/nuget/v3/index.json": {}
         },
         "frameworks": {

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MockTail</id>
+    <version>1.0.0</version>
+    <authors>MockTail</authors>
+    <readme>README.md</readme>
+    <description>MockTail é uma biblioteca leve para testes unitários que cria instâncias de SUTs injetando automaticamente dependências simuladas com NSubstitute. Seleciona o melhor construtor de T com base nas dependências já configuradas (tipo e nome), suporta Lazy&lt;T&gt; e Func&lt;T&gt;, permite sobrepor dependências via Set&lt;TService&gt;() e recuperar mocks via Get&lt;T&gt;(), GetLazy&lt;T&gt;() e GetFunc&lt;T&gt;(). Use Build() para instância real ou BuildMock() para um mock do próprio SUT.</description>
+    <repository type="git" commit="3ec8f9d9297b459de141c714f40048e315900ab4" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="NSubstitute" version="5.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\bin\Release\net8.0\MockTail.dll" target="lib\net8.0\MockTail.dll" />
+    <file src="C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\README.md" target="README.md" />
+  </files>
+</package>

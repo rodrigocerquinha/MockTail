@@ -6,6 +6,7 @@ C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0
 C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.AssemblyInfoInputs.cache
 C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.AssemblyInfo.cs
 C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.sourcelink.json
 C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.dll
 C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\refint\MockTail.dll
 C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.pdb
