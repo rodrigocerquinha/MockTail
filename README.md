@@ -57,6 +57,23 @@ public void GetUser_WithMockTail()
 
     Assert.That(result.Name, Is.EqualTo("John"));
 }
+
+// MockTail as a base test class (inheritance style)
+public class UserServiceTests : MockTail<UserService>
+{
+    [Test]
+    public void GetUser_WithInheritance()
+    {
+        var service = Build();
+
+        var mockRepository = Get<IUserRepository>();
+        mockRepository.GetById(1).Returns(new User { Id = 1, Name = "John" });
+
+        var result = service.GetUser(1);
+
+        Assert.That(result.Name, Is.EqualTo("John"));
+    }
+}
 ```
 
 ## 📦 Installation
