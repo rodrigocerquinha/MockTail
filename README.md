@@ -511,6 +511,24 @@ public class MockTail<T> where T : class
 
 ---
 
+## 📄 License
+
+MockTail is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+This is an open-source project that you can freely use, modify, and distribute in your projects (commercial or personal) under the terms of the MIT License.
+
+### What You Can Do:
+✅ Use in commercial projects  
+✅ Modify and create derivative works  
+✅ Distribute (with attribution)  
+✅ Use for private purposes  
+
+### What You Must Do:
+📋 Include a copy of the license  
+📋 Include copyright notice  
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:

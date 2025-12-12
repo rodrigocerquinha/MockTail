@@ -7,6 +7,12 @@
     <Description>MockTail é uma biblioteca leve para testes unitários que cria instâncias de SUTs injetando automaticamente dependências simuladas com NSubstitute. Seleciona o melhor construtor de T com base nas dependências já configuradas (tipo e nome), suporta Lazy&lt;T&gt; e Func&lt;T&gt;, permite sobrepor dependências via Set&lt;TService&gt;() e recuperar mocks via Get&lt;T&gt;(), GetLazy&lt;T&gt;() e GetFunc&lt;T&gt;(). Use Build() para instância real ou BuildMock() para um mock do próprio SUT.</Description>
     <Version>1.0.0</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <License>MIT</License>
+    <LicenseExpression>MIT</LicenseExpression>
+    <Authors>rodrigocerquinha</Authors>
+    <RepositoryUrl>https://github.com/rodrigocerquinha/MockTail</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/rodrigocerquinha/MockTail</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
