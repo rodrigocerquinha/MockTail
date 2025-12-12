@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh2VKXnOE8g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodrigo.cerquinha\\Documents\\Projetos\\MockTail\\MockTail\\MockTail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.cerquinha\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\rodrigo.cerquinha\\.nuget\\packages\\nsubstitute\\5.3.0\\nsubstitute.5.3.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.cerquinha\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\bin\Debug\net8.0\MockTail.deps.json
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\bin\Debug\net8.0\MockTail.dll
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\bin\Debug\net8.0\MockTail.pdb
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.csproj.AssemblyReference.cache
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.AssemblyInfoInputs.cache
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.AssemblyInfo.cs
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.dll
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\refint\MockTail.dll
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\MockTail.pdb
+C:\Users\rodrigo.cerquinha\Documents\Projetos\MockTail\MockTail\obj\Debug\net8.0\ref\MockTail.dll
